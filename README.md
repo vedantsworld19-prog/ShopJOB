@@ -263,29 +263,6 @@ ShopJOB was designed to:
 
 ---
 
-# 📸 Screenshots
-
-## 🏠 Homepage
-
-```md
-Add screenshot here:
-```
-
-```bash
-/screenshots/home.png
-```
-
----
-
-## 🧠 Roadmap Modal
-
-```md
-Add screenshot here:
-```
-
-```bash
-/screenshots/roadmap.png
-```
 
 ---
 
@@ -325,7 +302,7 @@ Ideas:
 
 # 👨‍💻 Author
 
-## MAYANK
+## Vedant
 
 Built with caffeine, chaos, and creativity ☕
 
